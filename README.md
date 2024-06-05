@@ -1,7 +1,7 @@
 Highly Available Nginx server on AWS with Terraform
 
 Created in default VPC,
-Can be used in any region,
+Can be used in any region
 Using Latest Amazon-Linux AMI
 
 features:
